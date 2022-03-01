@@ -65,7 +65,7 @@ function Header(props) {
                 </div>
             </Route>
 
-            <div className="header__right" onClick={() => window.open('https://github.com/amirfakhrullah/reddit-client-app', '_blank')}>
+            <div className="header__right" onClick={() => window.open('https://github.com/Firemandeheavenly-Inamen/reddit-client', '_blank')}>
                 <GitHubIcon />
             </div>
         </div>
