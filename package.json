@@ -12,7 +12,7 @@
     "@wojtekmaj/enzyme-adapter-react-17": "^0.4.1",
     "abort-controller": "^3.0.0",
     "enzyme": "^3.11.0",
-    "next": "^10.0.6",
+    "next": "^10.2.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-loader-spinner": "^4.0.0",
@@ -23,6 +23,7 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
+    "dev": "next dev",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
